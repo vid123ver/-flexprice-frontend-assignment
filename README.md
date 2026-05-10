@@ -13,7 +13,7 @@ Then just hit http://localhost:6006 and you'll see everything. Tweak the control
 
 What I Built (17 Components Total)
 
-1.)Atoms — The Small Stuff (10)
+**1.)Atoms — The Small Stuff (10)**
 These are your basic building blocks. Nothing fancy, just solid components that do one thing well.
 
 Component	What It Does
@@ -28,8 +28,8 @@ Checkbox	Your standard checkbox, but with label and optional description text un
 CodeBlock	Shows code with syntax highlighting. Comes with a copy button because nobody wants to manually select and CMD+C.
 DateRangePicker	Pick a date range. Has timezone support because not everyone lives in UTC.
 
-2.)Molecules — The Medium Stuff (4)
-These combine atoms into slightly more useful things.
+**2.)Molecules — The Medium Stuff (4)
+**These combine atoms into slightly more useful things.
 
 PricingTierTable — Shows tiered pricing in a clean table. Good for plans with volume discounts.
 
@@ -39,8 +39,8 @@ CommandPalette — Hit CMD+K (or CTRL+K on Windows) and search through whatever 
 
 Pagination — Handles lots of pages without looking like a mess. Those ellipsis (...) do the heavy lifting.
 
-3.)Organisms — The Big Stuff (3)
-These are chunky components that could almost be entire sections of a page.
+**3.)Organisms — The Big Stuff (3)
+**These are chunky components that could almost be entire sections of a page.
 
 SidebarNav — Collapsible navigation that highlights where you currently are. Icons + labels, as God intended.
 
